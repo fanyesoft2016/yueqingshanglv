@@ -1,0 +1,11 @@
+[core]
+	bare = true
+	filemode = false
+	symlinks = false
+	ignorecase = true
+[core]
+	repositoryformatversion = 0
+[remote "fanye"]
+	url = https://github.com/fanyesoft2016/yueqingshanglv.git
+	fetch = +refs/heads/*:refs/remotes/fanye/*
+	pushurl = https://github.com/fanyesoft2016/yueqingshanglv.git
